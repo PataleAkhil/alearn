@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="alearn Logo" width="200">
+  <img src="alearn.gif " alt="alearn Logo" width="200">
 
   # alearn: Automated Machine Learning Library
 
